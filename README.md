@@ -1,5 +1,2 @@
-My first readm
-[200~# alx-zero_day
+My first readme file
 
-This repository is for practicing Git commands and workflows in the ALX program.
-e
